@@ -19,6 +19,7 @@ A oficina combina prática, Aprendizagem Baseada em Projetos, Sprints educaciona
 - [Documentação e metodologia](01_Documentacao/README.md)
 - [Planejamento do segundo semestre de 2026](02_Planejamento/03_Planejamento_Segundo_Semestre_2026.md)
 - [Módulos e competências](02_Planejamento/04_Modulos_e_Competencias_Semestre_2.md)
+- [Plano completo de Design Gráfico — segundo semestre](02_Planejamento/05_Design_Grafico_Segundo_Semestre_2026.md)
 - [Sprint de Inteligência Artificial](03_Sprints/Sprint_06_Inteligencia_Artificial/01_Plano_do_Sprint.md)
 - [Plano de aula — Primeiras Aplicações da IA](03_Sprints/Sprint_06_Inteligencia_Artificial/02_Plano_de_Aula_02_Primeiras_Aplicacoes.md)
 - [Guia de execução para o educador](04_Materiais_Educador/01_Guia_de_Execucao_Semestre_2.md)
@@ -40,13 +41,15 @@ A oficina combina prática, Aprendizagem Baseada em Projetos, Sprints educaciona
 
 ## Segundo semestre de 2026
 
-O planejamento parte de uma revisão diagnóstica do primeiro semestre e avança por cinco módulos:
+O planejamento geral parte de uma revisão diagnóstica do primeiro semestre e avança por cinco módulos integradores:
 
 1. Revisão e diagnóstico;
 2. Design e comunicação visual;
 3. Storytelling e produção audiovisual;
 4. Inteligência Artificial aplicada;
 5. Portfólio e mundo do trabalho.
+
+Dentro do eixo de **Design Gráfico**, o segundo semestre conta com um percurso específico de aprofundamento em seis módulos: composição e hierarquia, identidade visual, mídias digitais, impressão, edição de imagens e projeto final integrador. O detalhamento está em [05_Design_Grafico_Segundo_Semestre_2026.md](02_Planejamento/05_Design_Grafico_Segundo_Semestre_2026.md).
 
 As aulas foram organizadas às segundas e sextas-feiras, de 28 de agosto a 18 de dezembro. Os feriados nacionais estão identificados no calendário e qualquer ajuste deve ser registrado no planejamento.
 
