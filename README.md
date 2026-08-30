@@ -1,66 +1,83 @@
-# Mídias Digitais e Design Gráfico — Fundação Eufraten
+# 📱 Mídias Digitais & Design Gráfico — Projetos Profissionais 2026
 
-Repositório pedagógico da Oficina de **Mídias Digitais e Design Gráfico**, vinculada ao projeto PMT — Preparação para o Mundo do Trabalho, da Fundação Eufraten.
+> Registro de projetos reais desenvolvidos em 2026 nas áreas de Mídias Digitais, Design Gráfico e Tecnologia Educacional.
 
-Aqui são organizados planejamento, módulos, Sprints, planos de aula, materiais didáticos, instrumentos de avaliação e registros institucionais do percurso formativo.
+## 🎯 Sobre este repositório
 
-## Propósito
+Este repositório documenta projetos, atividades, materiais e experimentações **reais e em desenvolvimento** relacionados à atuação profissional em educação, mídias digitais, design e tecnologia.
 
-Desenvolver autonomia digital, comunicação, criatividade, organização, responsabilidade e preparação para o mundo do trabalho. A tecnologia é trabalhada como meio para resolver problemas, comunicar ideias e construir projetos com sentido.
+O foco está no percurso completo:
 
-## Organização pedagógica
+**Planejamento → Execução → Feedback → Revisão → Resultado → Documentação**
 
-A oficina combina prática, Aprendizagem Baseada em Projetos, Sprints educacionais, feedback e revisão. Os movimentos que orientam o percurso são:
+## 🧩 Principais áreas
+
+- 🎨 Design gráfico e comunicação visual
+- 📱 Mídias digitais
+- 🤖 Inteligência Artificial aplicada
+- 💻 Tecnologia educacional
+- 🎓 Produção de materiais para ensino
+- 🌐 Cultura e cidadania digital
+- 🧠 Criatividade, comunicação e pensamento crítico
+- 💼 Preparação para o mundo do trabalho
+
+## 📚 Organização pedagógica
+
+Os projetos combinam prática, Aprendizagem Baseada em Projetos, Sprints educacionais, feedback, revisão e produção de portfólio.
+
+Os movimentos que orientam o percurso são:
 
 **Observar → Refletir → Tomar atitude → Agir → Saber esperar**
 
-## Acesso rápido
-
-- [Documentação e metodologia](01_Documentacao/README.md)
-- [Planejamento do segundo semestre de 2026](02_Planejamento/03_Planejamento_Segundo_Semestre_2026.md)
-- [Módulos e competências](02_Planejamento/04_Modulos_e_Competencias_Semestre_2.md)
-- [Plano completo de Design Gráfico — segundo semestre](02_Planejamento/05_Design_Grafico_Segundo_Semestre_2026.md)
-- [Sprint de Inteligência Artificial](03_Sprints/Sprint_06_Inteligencia_Artificial/01_Plano_do_Sprint.md)
-- [Plano de aula — Primeiras Aplicações da IA](03_Sprints/Sprint_06_Inteligencia_Artificial/02_Plano_de_Aula_02_Primeiras_Aplicacoes.md)
-- [Guia de execução para o educador](04_Materiais_Educador/01_Guia_de_Execucao_Semestre_2.md)
-- [Guia de trabalho e portfólio dos educandos](05_Materiais_Educandos/01_Guia_de_Trabalho_e_Portfolio.md)
-- [Avaliação do segundo semestre](docs/avaliacao_semestre_2.md)
-- [Manutenção e governança do repositório](01_Documentacao/08_Manutencao_e_Governanca_do_Repositorio.md)
-
-## Estrutura
+## 📂 Organização do repositório
 
 ```text
 .
 ├── 01_Documentacao/        # metodologia, objetivos, registros e governança
-├── 02_Planejamento/        # calendário, módulos, competências e planejamento
-├── 03_Sprints/             # planos de projeto, roteiros, atividades e avaliações
+├── 02_Planejamento/        # calendário, módulos e competências
+├── 03_Sprints/             # projetos, roteiros, atividades e avaliações
 ├── 04_Materiais_Educador/  # guias de condução e checklists
-├── 05_Materiais_Educandos/ # fichas, textos de apoio e orientações
+├── 05_Materiais_Educandos/ # fichas, textos e orientações
 └── docs/                   # sínteses e instrumentos de avaliação
 ```
 
-## Segundo semestre de 2026
+A estrutura é ampliada conforme os projetos avançam, evitando criar pastas vazias apenas por padronização.
 
-O planejamento geral parte de uma revisão diagnóstica do primeiro semestre e avança por cinco módulos integradores:
+## 🚀 Projetos e frentes de trabalho
 
-1. Revisão e diagnóstico;
-2. Design e comunicação visual;
-3. Storytelling e produção audiovisual;
-4. Inteligência Artificial aplicada;
-5. Portfólio e mundo do trabalho.
+O repositório reúne projetos reais nas áreas de:
 
-Dentro do eixo de **Design Gráfico**, o segundo semestre conta com um percurso específico de aprofundamento em seis módulos: composição e hierarquia, identidade visual, mídias digitais, impressão, edição de imagens e projeto final integrador. O detalhamento está em [05_Design_Grafico_Segundo_Semestre_2026.md](02_Planejamento/05_Design_Grafico_Segundo_Semestre_2026.md).
+- Design Gráfico;
+- Mídias Digitais;
+- Inteligência Artificial aplicada;
+- Storytelling e produção audiovisual;
+- Segurança e cidadania digital;
+- Portfólio e preparação para o mundo do trabalho.
 
-As aulas foram organizadas às segundas e sextas-feiras, de 28 de agosto a 18 de dezembro. Os feriados nacionais estão identificados no calendário e qualquer ajuste deve ser registrado no planejamento.
+## 📈 Segundo semestre de 2026
 
-## Avaliação
+O percurso parte de uma revisão diagnóstica e avança por módulos integradores envolvendo design, comunicação visual, storytelling, audiovisual, IA e portfólio profissional.
+
+O eixo de **Design Gráfico** possui um percurso específico de aprofundamento em composição e hierarquia, identidade visual, mídias digitais, impressão, edição de imagens e projeto final integrador.
+
+## 📊 Avaliação
 
 A avaliação é formativa e considera processo, produção, revisão, colaboração, responsabilidade digital e evolução. São utilizados diagnóstico, checklists, observação, feedback entre pares, autoavaliação e portfólio.
 
-## Privacidade e publicação responsável
+## 🔐 Privacidade e publicação responsável
 
-Este repositório é público. Não publicar dados pessoais, contatos, avaliações individuais, fotos identificáveis, credenciais ou documentos sensíveis. Utilizar dados agregados, exemplos fictícios e materiais autorizados.
+Este repositório é público. Não publicar dados pessoais, contatos, avaliações individuais, fotos identificáveis, credenciais ou documentos sensíveis sem autorização adequada.
 
-## Educador
+Quando necessário, utilizar dados agregados, exemplos fictícios, anonimização e materiais autorizados.
+
+## 🚧 Status
+
+🟢 **Projeto profissional em desenvolvimento contínuo — 2026.**
+
+## 👨‍🏫 Contexto profissional
+
+Os conteúdos representam projetos e atividades reais de atuação profissional em educação e tecnologia. A documentação prioriza processos, competências e resultados sem expor informações institucionais restritas ou dados pessoais.
+
+## 👤 Autor
 
 **Filipe Gimenes de Morais**
