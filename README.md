@@ -1,5 +1,7 @@
 # 📱 Mídias Digitais & Design Gráfico — Projetos Profissionais 2026
 
+🇧🇷 Português | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md)
+
 > Registro de projetos reais desenvolvidos em 2026 nas áreas de Mídias Digitais, Design Gráfico e Tecnologia Educacional.
 
 ## 🎯 Sobre este repositório
