@@ -82,4 +82,13 @@ Os conteúdos representam projetos e atividades reais de atuação profissional 
 
 ## 👤 Autor
 
-**Filipe Gimenes de Morais**
+**Filipe G Morais**
+
+---
+
+## Author
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/2026_Professional_Projects_Midias_Digitais
