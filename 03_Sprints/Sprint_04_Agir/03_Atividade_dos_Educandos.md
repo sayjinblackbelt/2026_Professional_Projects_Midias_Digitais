@@ -14,7 +14,7 @@
 
 ## 1. Antes de Começar
 
-Hoje vamos colocar nosso planejamento em prática.
+Hoje vamos colocar nosso planejamento em prática por meio da **captação de fotografias, vídeos, entrevistas e registros de bastidores**.
 
 Consulte o **Plano de Produção** elaborado no movimento **Tomar Atitude**.
 
@@ -107,7 +107,7 @@ __________________________________________________________________
 
 Durante a atividade, registrem diferentes aspectos da oficina.
 
-### Não esqueçam de procurar:
+### Não esqueçam de procurar e captar:
 
 - [ ] contexto da oficina;
 - [ ] atividade acontecendo;
@@ -126,6 +126,8 @@ Fotografias: __________
 Vídeos: __________
 
 Entrevistas: __________
+
+Registros de bastidores: __________
 
 ---
 
