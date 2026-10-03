@@ -62,6 +62,26 @@ O percurso parte de uma revisão diagnóstica e avança por módulos integradore
 
 O eixo de **Design Gráfico** possui um percurso específico de aprofundamento em composição e hierarquia, identidade visual, mídias digitais, impressão, edição de imagens e projeto final integrador.
 
+
+## 🌐 GitHub Pages — percurso completo
+
+A página principal do projeto organiza o curso em uma trilha única, com **início, meio e fim**, conectando teoria, metodologia, Sprints, produção audiovisual, IA, cidadania digital e portfólio.
+
+👉 **[Abrir o GitHub Pages do projeto](./)**
+
+O conteúdo teórico completo está documentado em:
+
+- `02_Planejamento/03_Conteudo_Teorico_do_Curso.md`
+- `index.html` — versão navegável para o GitHub Pages
+
+A arquitetura pedagógica segue:
+
+**Fundamentos → Design → Mídias Digitais → Storytelling → Audiovisual → Produção → Edição → IA → Cidadania Digital → Projeto → Portfólio**
+
+E os projetos práticos são organizados pelos cinco movimentos:
+
+**Observar → Refletir → Tomar atitude → Agir → Saber esperar**
+
 ## 📊 Avaliação
 
 A avaliação é formativa e considera processo, produção, revisão, colaboração, responsabilidade digital e evolução. São utilizados diagnóstico, checklists, observação, feedback entre pares, autoavaliação e portfólio.
