@@ -4,17 +4,17 @@
 
 **Movimento:** AGIR 🎬  
 **Base:** Plano de Produção do Sprint 03 — Tomar Atitude  
-**Produto principal:** registros reais das oficinas de Música, Teatro e Dança.
+**Produto principal:** captação de material bruto — fotografias, vídeos, entrevistas e bastidores das oficinas de Música, Teatro e Dança.
 
 ---
 
 ## 1. Propósito
 
-Este é o momento em que o planejamento encontra a realidade.
+Este é o momento em que o planejamento encontra a realidade. Na segunda-feira, o foco será a **captação de material** que servirá de matéria-prima para a edição posterior: fotografias, vídeos, entrevistas e registros de bastidores.
 
 Os educandos irão realizar registros fotográficos e/ou audiovisuais nas oficinas, utilizando o que foi construído nos movimentos anteriores.
 
-A proposta não é simplesmente **"tirar fotos e fazer vídeos"**. É experimentar o processo completo de produção: preparar, registrar, observar o resultado, adaptar e trabalhar coletivamente.
+A proposta não é simplesmente **"tirar fotos e fazer vídeos"**. Cada registro deve ter uma intenção dentro da história planejada. É experimentar o processo completo de produção: preparar, registrar, observar o resultado, adaptar e trabalhar coletivamente.
 
 A pergunta central será:
 
