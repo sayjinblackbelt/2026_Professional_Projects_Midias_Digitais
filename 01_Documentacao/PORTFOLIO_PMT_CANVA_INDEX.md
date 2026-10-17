@@ -1,29 +1,37 @@
 # Portfólio PMT — índice de entregáveis
 
-Este índice reúne os arquivos de apoio visual criados no Canva e o arquivo de componentes no Figma. Os links apontam para documentos separados; não significa que os arquivos estejam anexados a uma única pasta/projeto no Canva.
+Pasta principal do Canva: [Portfólio PMT 2026](https://www.canva.com/folder/FAHYTCqesnw)
 
-## Canva
+## Canva — arquivos na pasta
 
-- **Card Projeto B12** — [Abrir no Canva](https://www.canva.com/d/Qf0WgIS7EFbh6kS)
-- **Card Projeto Base44** — [Abrir no Canva](https://www.canva.com/d/MEuGtj23TCCFNwP)
-- **Card Projeto InstaPlay** — [Abrir no Canva](https://www.canva.com/d/NlOE2xx8oRkFI9e)
-- **Portfólio PMT (3 páginas)** — [Abrir no Canva](https://www.canva.com/d/QgaPqEDDlewYERs)
-- **Kit visual PMT 2026 (referência)** — [Abrir no Canva](https://www.canva.com/d/dXtGvG65ogenVhq)
-- **Capa de portfólio PMT 2026 (referência)** — [Abrir no Canva](https://www.canva.com/d/zt7rIdfct0FdPfE)
+- **Card Projeto B12** — [Editar](https://www.canva.com/d/o641MZOQjfjSrnb) · [Visualizar](https://www.canva.com/d/RW-f8OYCXpcOi_t)
+- **Card Projeto Base44** — [Editar](https://www.canva.com/d/yqe-QZ9sjDRbZlp) · [Visualizar](https://www.canva.com/d/vukpfasvjpEXNCi)
+- **Card Projeto InstaPlay** — [Editar](https://www.canva.com/d/krK6ooaTPXhV1dj) · [Visualizar](https://www.canva.com/d/II-QEHxl9ozcVty)
+- **Portfólio PMT (3 páginas)** — [Editar](https://www.canva.com/d/n9e-jc_dGOuLXCB) · [Visualizar](https://www.canva.com/d/181R9a3_D80846b)
+- **Modelo Completo de Projeto PMT (5 páginas)** — [Editar](https://www.canva.com/d/6wm5R8pyIFv_ZbW) · [Visualizar](https://www.canva.com/d/hnZgVnRIEb6zuBR)
+- **Kit visual PMT 2026 (referência)** — [Editar](https://www.canva.com/d/IVVnuTYiBzybw7x) · [Visualizar](https://www.canva.com/d/scXEssjttZwlIcI)
+- **Capa de portfólio PMT 2026** — [Editar](https://www.canva.com/d/3O6D-n3vlVVNK_n) · [Visualizar](https://www.canva.com/d/dsvY9M1uh43iLGK)
+- **Card universal de projeto** — [Editar](https://www.canva.com/d/VZqzLcxK8J9AjVL) · [Visualizar](https://www.canva.com/d/DcmBA8ZAn7stz7Q)
+- **Referência visual Agente PMT** — [Editar](https://www.canva.com/d/nQ9CKf01wJHNtEF) · [Visualizar](https://www.canva.com/d/jyfYTvJX5cDLsOj)
 
 ## Figma
 
 - **Arquivo de componentes PMT** — [Abrir no Figma](https://www.figma.com/design/4Smx0YI2Pm1xElZ7psBJ2e/Document)
-- Conjuntos criados/validados: `PMT / Card` (Project, Featured) e `PMT / Chip` (Platform, B12, Base44).
+- Conjuntos de componentes criados: `PMT / Card` (Project, Featured) e `PMT / Chip` (Platform, B12, Base44).
+- Propriedades de texto editáveis confirmadas nos conjuntos. A inspeção visual final de espaçamento e a criação de instâncias de teste ainda devem ser conferidas no editor.
 
-## Próxima etapa e controle de qualidade
+## Checklist de qualidade — status
 
-1. Abrir cada design no Canva e conferir visualmente tipografia, contraste, alinhamento, conteúdo e consistência com o kit visual.
-2. Conferir se os cards de projeto correspondem aos projetos reais e substituir qualquer texto genérico por evidências, capturas ou links verificáveis.
-3. Anexar os designs a uma pasta/projeto comum no Canva, caso essa organização seja desejada; atualmente são documentos separados.
-4. Revisar o arquivo Figma, conferir a disposição visual dos componentes e testar a criação de instâncias com as variantes.
-5. Ao finalizar, registrar links públicos de visualização e os links de edição apropriados no índice.
+- [x] Criar pasta central no Canva e mover os designs relacionados.
+- [x] Criar cards B12, Base44 e InstaPlay (um arquivo/página por card).
+- [x] Criar apresentação editorial de 3 páginas.
+- [x] Criar modelo reutilizável de projeto com 5 páginas e campos/placeholders.
+- [x] Criar conjuntos de variantes `PMT / Card` e `PMT / Chip` no Figma.
+- [ ] Revisão visual final de cada página no Canva (legibilidade, alinhamento, contraste e consistência).
+- [ ] Validar o conteúdo dos cards contra os projetos reais e adicionar capturas/evidências verificáveis.
+- [ ] Abrir o Figma, verificar a disposição dos componentes e testar instâncias das variantes.
+- [ ] Confirmar links de visualização pública, se forem necessários para compartilhamento externo.
 
-## Observação
+## Nota de transparência
 
-A existência dos arquivos e dos componentes foi confirmada pelas ferramentas conectadas. A revisão visual humana final e a organização de todos os designs em uma única pasta do Canva ainda precisam ser confirmadas.
+Os arquivos foram localizados, criados e organizados na pasta do Canva, e a estrutura dos componentes Figma foi verificada por ferramenta. Não foi possível certificar automaticamente a qualidade visual final em todos os arquivos nem validar as alegações dos cards contra evidências de cada projeto; esses pontos permanecem pendentes de revisão no editor.
