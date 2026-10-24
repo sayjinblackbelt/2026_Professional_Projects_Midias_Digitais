@@ -1,37 +1,61 @@
-# Portfólio PMT — índice de entregáveis
+# Portfólio PMT 2026 — índice de entregáveis e validação
 
-Pasta principal do Canva: [Portfólio PMT 2026](https://www.canva.com/folder/FAHYTCqesnw)
+## Pasta central do Canva
 
-## Canva — arquivos na pasta
+[Pasta Portfólio PMT 2026](https://www.canva.com/folder/FAHYTCqesnw)
 
-- **Card Projeto B12** — [Editar](https://www.canva.com/d/o641MZOQjfjSrnb) · [Visualizar](https://www.canva.com/d/RW-f8OYCXpcOi_t)
-- **Card Projeto Base44** — [Editar](https://www.canva.com/d/yqe-QZ9sjDRbZlp) · [Visualizar](https://www.canva.com/d/vukpfasvjpEXNCi)
-- **Card Projeto InstaPlay** — [Editar](https://www.canva.com/d/krK6ooaTPXhV1dj) · [Visualizar](https://www.canva.com/d/II-QEHxl9ozcVty)
-- **Portfólio PMT (3 páginas)** — [Editar](https://www.canva.com/d/n9e-jc_dGOuLXCB) · [Visualizar](https://www.canva.com/d/181R9a3_D80846b)
-- **Modelo Completo de Projeto PMT (5 páginas)** — [Editar](https://www.canva.com/d/6wm5R8pyIFv_ZbW) · [Visualizar](https://www.canva.com/d/hnZgVnRIEb6zuBR)
-- **Kit visual PMT 2026 (referência)** — [Editar](https://www.canva.com/d/IVVnuTYiBzybw7x) · [Visualizar](https://www.canva.com/d/scXEssjttZwlIcI)
-- **Capa de portfólio PMT 2026** — [Editar](https://www.canva.com/d/3O6D-n3vlVVNK_n) · [Visualizar](https://www.canva.com/d/dsvY9M1uh43iLGK)
-- **Card universal de projeto** — [Editar](https://www.canva.com/d/VZqzLcxK8J9AjVL) · [Visualizar](https://www.canva.com/d/DcmBA8ZAn7stz7Q)
-- **Referência visual Agente PMT** — [Editar](https://www.canva.com/d/nQ9CKf01wJHNtEF) · [Visualizar](https://www.canva.com/d/jyfYTvJX5cDLsOj)
+### Designs confirmados na pasta
 
-## Figma
+- **Capa de portfólio PMT 2026** — [visualizar no Canva](https://www.canva.com/d/y05XfVKysrFTxf6)
+- **Card Projeto B12** — [visualizar no Canva](https://www.canva.com/d/g1xk809oUHtM7Rp)
+- **Card Projeto Base44** — [visualizar no Canva](https://www.canva.com/d/GTDvIu-4sBiYWyz)
+- **Card Projeto InstaPlay** — [visualizar no Canva](https://www.canva.com/d/FXMtL1tvKPlYNsQ)
+- **Card universal de projeto** — [visualizar no Canva](https://www.canva.com/d/puesXbaYNZ6yPaP)
+- **Kit visual PMT 2026** — [visualizar no Canva](https://www.canva.com/d/AvoPIhHgGQHB69Z)
+- **Modelo Completo de Projeto PMT (5 páginas)** — [visualizar no Canva](https://www.canva.com/d/zj-0q97YD5ljfOo)
+- **Portfólio PMT — apresentação, processo e reflexão (3 páginas)** — [visualizar no Canva](https://www.canva.com/d/cSENYqywASbUu1u)
+- **Referência visual Agente PMT** — [visualizar no Canva](https://www.canva.com/d/rleVqPigjitSayX)
 
-- **Arquivo de componentes PMT** — [Abrir no Figma](https://www.figma.com/design/4Smx0YI2Pm1xElZ7psBJ2e/Document)
-- Conjuntos de componentes criados: `PMT / Card` (Project, Featured) e `PMT / Chip` (Platform, B12, Base44).
-- Propriedades de texto editáveis confirmadas nos conjuntos. A inspeção visual final de espaçamento e a criação de instâncias de teste ainda devem ser conferidas no editor.
+### Auditoria de conteúdo dos designs
 
-## Checklist de qualidade — status
+- **B12:** contém campos genéricos como nome do projeto, turma e data; completar antes da divulgação final.
+- **Base44 e InstaPlay:** peças visuais criadas; complementar com contexto, evidências e resultados verificáveis antes de afirmar resultados.
+- **Portfólio PMT:** a extração de texto encontrou trechos visualmente unidos em palavras (por exemplo, títulos e frases sem espaços); revisar quebras, espaçamento e legibilidade no editor.
+- **Modelo completo:** possui campos para contexto, público, problema, critérios de sucesso, referências, hipóteses, requisitos, ferramentas, riscos, testes, observações, melhorias, solução, limitações e próximos passos. Revisar os espaços reservados e a legibilidade de cada página.
 
-- [x] Criar pasta central no Canva e mover os designs relacionados.
-- [x] Criar cards B12, Base44 e InstaPlay (um arquivo/página por card).
-- [x] Criar apresentação editorial de 3 páginas.
-- [x] Criar modelo reutilizável de projeto com 5 páginas e campos/placeholders.
-- [x] Criar conjuntos de variantes `PMT / Card` e `PMT / Chip` no Figma.
-- [ ] Revisão visual final de cada página no Canva (legibilidade, alinhamento, contraste e consistência).
-- [ ] Validar o conteúdo dos cards contra os projetos reais e adicionar capturas/evidências verificáveis.
-- [ ] Abrir o Figma, verificar a disposição dos componentes e testar instâncias das variantes.
-- [ ] Confirmar links de visualização pública, se forem necessários para compartilhamento externo.
+## Kit GitHub Pages
 
-## Nota de transparência
+- **Página criada:** [portfolio/index.html](../portfolio/index.html)
+- **Instruções do kit:** [portfolio/README.md](../portfolio/README.md)
+- **Página principal do repositório:** [index.html](../index.html) agora inclui um link para o portfólio visual.
+- **README principal:** [README.md](../README.md) inclui o link para o portfólio.
+- **URL publicada esperada:** https://sayjinblackbelt.github.io/2026_Professional_Projects_Midias_Digitais/portfolio/
 
-Os arquivos foram localizados, criados e organizados na pasta do Canva, e a estrutura dos componentes Figma foi verificada por ferramenta. Não foi possível certificar automaticamente a qualidade visual final em todos os arquivos nem validar as alegações dos cards contra evidências de cada projeto; esses pontos permanecem pendentes de revisão no editor.
+**Status da publicação:** a execução de Pages foi iniciada após os commits, mas a publicação final ainda precisa ser confirmada em uma nova verificação do workflow e da URL.
+
+## Figma — PMT Foundations v1
+
+- **Arquivo:** [abrir no Figma](https://www.figma.com/design/4Smx0YI2Pm1xElZ7psBJ2e/Document)
+- **Frame do projeto:** `PMT Foundations v1` (`2003:43`).
+- **Navigation/Main:** encontrado (`2006:41`), com instância do CTA “Começar projeto”.
+- **CTA/Project:** encontrado (`2006:50`).
+- **Button:** conjunto `2008:52`, variantes Primary, Secondary e Accent; propriedade de texto Label. O espaçamento vertical entre variantes é excessivo (conjunto de 595 px de altura).
+- **Card:** conjunto real `2010:42`, variantes Project e Featured, propriedades editáveis Platform, Title e Description.
+- **Chip:** conjunto real `2010:43`, variantes Platform, B12 e Base44, propriedade de texto Label. Ainda não há variante InstaPlay no conjunto.
+- **Documentação e validação visual:** pendentes.
+
+### Restrição de acesso Figma nesta execução
+
+A leitura do arquivo funcionou. A identidade autenticada informou plano Starter e seat View; uma chamada de ferramenta que exige seat Dev/Full foi recusada. O histórico também registra bloqueio anterior do limite MCP Starter. Por segurança, **nenhuma alteração foi feita no Figma** nesta execução. A liberação do limite de edição não foi confirmada.
+
+## Checklist de estado
+
+- [x] Confirmar que os cards B12, Base44 e InstaPlay existem; não duplicar.
+- [x] Confirmar a apresentação de apoio com 3 páginas.
+- [x] Confirmar o modelo reutilizável com 5 páginas.
+- [x] Organizar 9 designs na pasta central do Canva.
+- [x] Criar a página de portfólio em `portfolio/index.html` e as instruções em `portfolio/README.md`.
+- [x] Ligar a página de portfólio ao site principal e ao README do repositório.
+- [ ] Confirmar a publicação do GitHub Pages e testar links na página ao vivo.
+- [ ] Revisar espaçamento e legibilidade dos designs no Canva; completar campos do B12.
+- [ ] Quando o Figma permitir edição, corrigir espaçamento do Button, avaliar a variante InstaPlay do Chip, concluir documentação e fazer validação visual.
