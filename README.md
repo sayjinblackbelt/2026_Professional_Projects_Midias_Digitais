@@ -69,6 +69,8 @@ A página principal do projeto organiza o curso em uma trilha única, com **iní
 
 👉 **[Abrir o GitHub Pages do projeto](./)**
 
+- **[Abrir o Portfólio PMT 2026](./portfolio/)** — cards de projeto, processo de trabalho e recursos visuais.
+
 O conteúdo teórico completo está documentado em:
 
 - `02_Planejamento/03_Conteudo_Teorico_do_Curso.md`
