@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#08111f">
+<meta name="description" content="Portfólio PMT 2026 — peças visuais, processo de trabalho e recursos de design e tecnologia.">
+<title>Portfólio PMT 2026 · Design & Tecnologia</title>
+<style>
+:root{color-scheme:dark;--bg:#08111f;--panel:#101c2e;--panel2:#14243a;--text:#edf4ff;--muted:#afbdd0;--line:#2a3b54;--cyan:#64d8cb;--violet:#a8a5ff;--max:1120px}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:radial-gradient(ellipse at 85% 0%,#1b2350 0,transparent 35%),linear-gradient(180deg,#07101c,#0b1626 65%,#08111f);color:var(--text);font:16px/1.65 Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+a{color:var(--cyan);text-underline-offset:4px}
+a:hover{text-decoration-thickness:2px}
+a:focus-visible,button:focus-visible{outline:3px solid var(--violet);outline-offset:4px}
+.skip{position:absolute;left:-9999px;top:8px;background:var(--cyan);color:#08111f;padding:8px 12px;border-radius:8px;z-index:30}
+.skip:focus{left:8px}
+.wrap{width:min(var(--max),calc(100% - 40px));margin-inline:auto}
+header{position:sticky;top:0;z-index:10;background:rgba(8,17,31,.92);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;gap:22px;min-height:68px;overflow:auto}
+.brand{font-weight:850;letter-spacing:-.03em;color:var(--text);text-decoration:none;white-space:nowrap;margin-right:auto}
+.nav a:not(.brand){font-size:.92rem;color:var(--muted);white-space:nowrap;text-decoration:none}
+.nav a:hover{color:var(--cyan)}
+.hero{padding:88px 0 72px}
+.eyebrow{font-size:.78rem;font-weight:850;letter-spacing:.16em;text-transform:uppercase;color:var(--cyan)}
+h1{font-size:clamp(2.7rem,7vw,5.6rem);line-height:.99;letter-spacing:-.055em;max-width:900px;margin:18px 0 24px}
+h1 span{color:var(--violet)}
+.lead{max-width:780px;color:var(--muted);font-size:clamp(1.05rem,2.2vw,1.25rem)}
+.tags{display:flex;flex-wrap:wrap;gap:10px;margin-top:28px}
+.tag{border:1px solid var(--line);border-radius:999px;padding:7px 12px;background:rgba(16,28,46,.65);color:var(--muted);font-size:.88rem}
+section{padding:64px 0;border-top:1px solid var(--line)}
+.section-head{max-width:760px;margin-bottom:28px}
+h2{font-size:clamp(1.8rem,4vw,2.8rem);line-height:1.12;letter-spacing:-.035em;margin:8px 0 12px}
+h3{font-size:1.25rem;line-height:1.25;margin:0 0 10px}
+p{margin:0 0 14px}
+.muted{color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));gap:16px}
+.card{display:flex;flex-direction:column;min-height:245px;padding:24px;border:1px solid var(--line);border-radius:18px;background:linear-gradient(145deg,rgba(20,36,58,.94),rgba(13,25,41,.96));box-shadow:0 14px 35px rgba(0,0,0,.12)}
+.card:hover{border-color:#59708f}
+.card-top{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:18px}
+.index{font-size:.78rem;font-weight:800;letter-spacing:.12em;color:var(--violet)}
+.status{font-size:.75rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:3px 8px}
+.card p{color:var(--muted);font-size:.96rem}
+.actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:auto;padding-top:16px}
+.button{display:inline-flex;align-items:center;justify-content:center;padding:10px 14px;border-radius:10px;font-weight:800;text-decoration:none;background:var(--cyan);color:#07151a}
+.button.secondary{background:transparent;color:var(--text);border:1px solid var(--line)}
+.button:hover{text-decoration:none;filter:brightness(1.06)}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;counter-reset:step}
+.step{border:1px solid var(--line);background:var(--panel);border-radius:14px;padding:18px;counter-increment:step}
+.step:before{content:"0" counter(step);display:block;color:var(--cyan);font-size:.8rem;font-weight:850;letter-spacing:.12em;margin-bottom:10px}
+.notice{border:1px solid rgba(168,165,255,.45);background:rgba(168,165,255,.08);border-radius:14px;padding:18px 20px;color:var(--muted)}
+.notice strong{color:var(--text)}
+.resources{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}
+.resource{display:block;padding:18px;border:1px solid var(--line);border-radius:14px;background:rgba(16,28,46,.75);text-decoration:none}
+.resource strong{display:block;color:var(--text);margin-bottom:4px}
+.resource span{display:block;color:var(--muted);font-size:.9rem}
+footer{border-top:1px solid var(--line);padding:30px 0 44px;color:var(--muted);font-size:.9rem}
+.footer-row{display:flex;flex-wrap:wrap;justify-content:space-between;gap:18px}
+@media(max-width:700px){.nav{gap:15px}.hero{padding:60px 0 48px}section{padding:48px 0}.wrap{width:min(var(--max),calc(100% - 28px))}.card{min-height:unset}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Pular para o conteúdo</a>
+<header>
+  <nav class="nav wrap" aria-label="Navegação principal">
+    <a class="brand" href="#inicio">PMT <span aria-hidden="true">/</span> Portfólio 2026</a>
+    <a href="#projetos">Projetos</a>
+    <a href="#processo">Processo</a>
+    <a href="#recursos">Recursos</a>
+    <a href="#sobre">Sobre</a>
+  </nav>
+</header>
+<main id="main">
+  <div class="hero wrap" id="inicio">
+    <div class="eyebrow">Portfólio PMT · 2026</div>
+    <h1>Ideias organizadas.<br><span>Experiências digitais</span> em construção.</h1>
+    <p class="lead">Uma coleção de peças visuais e recursos de trabalho em Design, Mídias Digitais e Tecnologia. O percurso documenta processo, prototipação, revisão e aprendizados — sem substituir evidências reais de cada projeto.</p>
+    <div class="tags" aria-label="Áreas de atuação">
+      <span class="tag">Design gráfico</span><span class="tag">Mídias digitais</span><span class="tag">Tecnologia</span><span class="tag">IA aplicada</span>
+    </div>
+  </div>
+
+  <section id="projetos">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">01 · Peças visuais</div>
+        <h2>Projetos em destaque</h2>
+        <p class="muted">Abra cada peça no Canva para consultar o material original. As descrições resumem o texto presente nos cards; detalhes, resultados e evidências devem ser acrescentados somente após validação.</p>
+      </div>
+      <div class="grid">
+        <article class="card">
+          <div class="card-top"><span class="index">PROJETO 01</span><span class="status">Revisão de campos</span></div>
+          <h3>B12</h3>
+          <p>Peça visual identificada como Projeto B12. O card contém campos de preenchimento, como nome, turma e data, que precisam ser completados antes da divulgação final.</p>
+          <div class="actions"><a class="button" href="https://www.canva.com/d/Cu1K3J--SWEOmXv" target="_blank" rel="noopener noreferrer">Ver card no Canva ↗</a></div>
+        </article>
+        <article class="card">
+          <div class="card-top"><span class="index">PROJETO 02</span><span class="status">Peça criada</span></div>
+          <h3>Base44</h3>
+          <p>Aplicações digitais com IA. A peça destaca prototipação e desenvolvimento acelerado com apoio de inteligência artificial; resultados concretos devem ser documentados com evidências do projeto.</p>
+          <div class="actions"><a class="button" href="https://www.canva.com/d/Br45s2iR14u7VC6" target="_blank" rel="noopener noreferrer">Ver card no Canva ↗</a></div>
+        </article>
+        <article class="card">
+          <div class="card-top"><span class="index">PROJETO 03</span><span class="status">Peça criada</span></div>
+          <h3>InstaPlay</h3>
+          <p>Experiência digital interativa, com foco em interação, conteúdo e navegação. O texto final deve ser complementado por contexto e evidências verificáveis do projeto.</p>
+          <div class="actions"><a class="button" href="https://www.canva.com/d/19LUz5VbQPCh2ax" target="_blank" rel="noopener noreferrer">Ver card no Canva ↗</a></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="processo">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">02 · Método de trabalho</div>
+        <h2>Do problema à solução</h2>
+        <p class="muted">Um ciclo iterativo que ajuda a organizar decisões e tornar o processo de criação mais claro.</p>
+      </div>
+      <div class="steps">
+        <div class="step"><h3>Compreender</h3><p class="muted">Investigar contexto, público e problema.</p></div>
+        <div class="step"><h3>Organizar</h3><p class="muted">Estruturar informações e definir prioridades.</p></div>
+        <div class="step"><h3>Prototipar</h3><p class="muted">Tornar ideias visíveis e testáveis.</p></div>
+        <div class="step"><h3>Testar e refinar</h3><p class="muted">Observar, receber feedback e melhorar.</p></div>
+        <div class="step"><h3>Apresentar</h3><p class="muted">Comunicar decisões e resultados com clareza.</p></div>
+      </div>
+      <div class="actions" style="margin-top:22px">
+        <a class="button secondary" href="https://www.canva.com/d/tWvZX816dk0sx4b" target="_blank" rel="noopener noreferrer">Ver apresentação do processo ↗</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="recursos">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">03 · Recursos</div>
+        <h2>Materiais do portfólio</h2>
+        <p class="muted">Arquivos de referência e edição reunidos para dar continuidade ao trabalho.</p>
+      </div>
+      <div class="resources">
+        <a class="resource" href="https://www.canva.com/d/aRgVQ3ZzVxcTD4S" target="_blank" rel="noopener noreferrer"><strong>Modelo completo de projeto</strong><span>Estrutura editável de cinco páginas para problema, pesquisa, protótipo, testes e próximos passos.</span></a>
+        <a class="resource" href="https://www.canva.com/d/sS96yhrAkk2KFpc" target="_blank" rel="noopener noreferrer"><strong>Kit visual PMT 2026</strong><span>Referência de identidade visual e consistência.</span></a>
+        <a class="resource" href="https://canva.link/q2prphwjx6prrfn" target="_blank" rel="noopener noreferrer"><strong>Capa de portfólio</strong><span>Peça de abertura do conjunto visual.</span></a>
+        <a class="resource" href="https://canva.link/s7zo3r1anww751g" target="_blank" rel="noopener noreferrer"><strong>Card universal de projeto</strong><span>Base reutilizável para novos projetos.</span></a>
+        <a class="resource" href="https://www.figma.com/design/4Smx0YI2Pm1xElZ7psBJ2e/Document" target="_blank" rel="noopener noreferrer"><strong>Design System PMT no Figma</strong><span>Componentes e variantes; revisão visual ainda pendente.</span></a>
+        <a class="resource" href="https://github.com/sayjinblackbelt/2026_Professional_Projects_Midias_Digitais" target="_blank" rel="noopener noreferrer"><strong>Repositório do projeto</strong><span>Documentação, planejamento e histórico de trabalho no GitHub.</span></a>
+      </div>
+    </div>
+  </section>
+
+  <section id="sobre">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">04 · Sobre</div>
+        <h2>Design & Tecnologia</h2>
+        <p class="muted">Filipe Gimenes de Morais · Portfólio PMT 2026</p>
+      </div>
+      <div class="notice"><strong>Estado do portfólio:</strong> os arquivos visuais e este índice navegável estão reunidos; a revisão final dos cards, a inclusão de evidências verificáveis e a validação visual do Design System continuam pendentes. Não são apresentadas métricas ou resultados que ainda não foram comprovados.</div>
+    </div>
+  </section>
+</main>
+<footer>
+  <div class="wrap footer-row">
+    <span>Portfólio PMT · Design & Tecnologia · 2026</span>
+    <span><a href="https://github.com/sayjinblackbelt/2026_Professional_Projects_Midias_Digitais" target="_blank" rel="noopener noreferrer">Repositório GitHub ↗</a></span>
+  </div>
+</footer>
+</body>
+</html>
