@@ -20,7 +20,7 @@
 
 - **B12:** contém campos genéricos como nome do projeto, turma e data; completar antes da divulgação final.
 - **Base44 e InstaPlay:** peças visuais criadas; complementar com contexto, evidências e resultados verificáveis antes de afirmar resultados.
-- **Portfólio PMT:** a extração de texto encontrou trechos visualmente unidos em palavras (por exemplo, títulos e frases sem espaços); revisar quebras, espaçamento e legibilidade no editor.
+- **Portfólio PMT:** a extração textual retornou alguns trechos sem espaços entre caixas de texto. Não é possível concluir apenas pela extração se isso é um problema visual ou do método de leitura; revisar quebras e legibilidade no editor.
 - **Modelo completo:** possui campos para contexto, público, problema, critérios de sucesso, referências, hipóteses, requisitos, ferramentas, riscos, testes, observações, melhorias, solução, limitações e próximos passos. Revisar os espaços reservados e a legibilidade de cada página.
 
 ## Kit GitHub Pages
@@ -31,7 +31,7 @@
 - **README principal:** [README.md](../README.md) inclui o link para o portfólio.
 - **URL publicada esperada:** https://sayjinblackbelt.github.io/2026_Professional_Projects_Midias_Digitais/portfolio/
 
-**Status da publicação:** a execução de Pages foi iniciada após os commits, mas a publicação final ainda precisa ser confirmada em uma nova verificação do workflow e da URL.
+**Status da publicação:** o workflow GitHub Pages terminou com sucesso em 24/10/2026 (run ID 40115237868). A ferramenta de navegação disponível não conseguiu abrir diretamente o domínio `github.io` nesta execução; o build está confirmado, mas a inspeção da página ao vivo e de seus links ainda precisa ser feita no navegador.
 
 ## Figma — PMT Foundations v1
 
